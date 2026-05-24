@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Discord.py-2.4+-blueviolet">
 <img src="https://img.shields.io/badge/Flask-Web%20Panel-green">
 <img src="https://img.shields.io/badge/支持-Termux%2FPC-brightgreen">
-<img src="https://discord.com/users/1405492229627187212/作者-Mikukero-ff9eb5">
+<img src="https://img.shields.io/badge/作者-Mikukero-ff9eb5">
 </p>
 
 ---
@@ -45,7 +45,7 @@ pip install --upgrade pip
 <img src="https://img.shields.io/badge/Discord.py-2.4+-blueviolet">
 <img src="https://img.shields.io/badge/Flask-Web%20Panel-green">
 <img src="https://img.shields.io/badge/支持-Termux%2FPC-brightgreen">
-<img src="https://img.shields.io/badge/作者-Mikukero-ff9eb5">
+<img src="https://discord.com/users/1405492229627187212">
 </p>
 
 ---
