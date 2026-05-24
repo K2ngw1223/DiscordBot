@@ -242,7 +242,7 @@ http://127.0.0.1:5000
  
 原作者：Mikukero
 Discord主页：https://discord.com/users/1405492229627187212
-Github主页：https://github.com/K2ngw/DiscordBot
+Github主页：https://github.com/K2ngw1223/DiscordBot
 项目名称：DiscordBot
 版权声明：保留所有权利，仅供学习与个人使用，禁止未经授权商用
 注意：使用本项目请保留原作者信息
