@@ -1,7 +1,7 @@
 # 📩 Contact Original Author
 # 联系原作者 · Mikukero
 
-<palign="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Author-Mikukero-ff69b4.svg" alt="Mikukero">
   <img src="https://img.shields.io/badge/Project-Firefly_火萤Ⅳ-ff9eb5.svg" alt="Firefly">
   <img src="https://img.shields.io/badge/Discord-Bot-blue.svg" alt="Discord Bot">
