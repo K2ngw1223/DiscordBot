@@ -17,7 +17,7 @@
 
 ## 📌 如何联系原作者
 - **Discord**: https://discord.com/users/1405492229627187212
-- **GitHub**: https://github.com/K2ngw
+- **GitHub**: https://github.com/K2ngw1223
 - **Project Homepage**: Firefly Discord Bot by Mikukero
 - **Developer Discord Profile**: 代码内已内置 `DEV_URL`
 
