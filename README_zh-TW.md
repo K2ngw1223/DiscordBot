@@ -1,6 +1,14 @@
 <img width="735" height="525" alt="Image" src="https://github.com/user-attachments/assets/92ffd51e-0568-478d-8667-e3fe242b5910" />
 
 # 大致預覽
+
+ _  __ ____
+| |/ /|___ \  _ __    __ _ __      __
+| ' /   __) || '_ \  / _` |\ \ /\ / /
+| . \  / __/ | | | || (_| | \ V  V /
+|_|\_\|_____||_| |_| \__, |  \_/\_/
+                     |___/
+                     
 |⭐ STARS|🍴 FORKS|⚠️ ISSUES|🔀 PULLS|
 |--------|--------|---------|--------|
 |We need it|too|Firefly|Love|
