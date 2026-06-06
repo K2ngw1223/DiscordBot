@@ -24,7 +24,7 @@ import sys
 import re
 from functools import wraps
 
-# ==================== 你的原配置 100% 不动 ====================
+# ==================== 你的配置区域 ====================
 BOT_TOKEN = "Your Discord Bot Token"
 BOT_ID = "机器人ID"
 QWEN_API_KEY = "Your Qwen Key"
@@ -1053,7 +1053,7 @@ async def keep_alive_task():
     while True:
         if bot_status_data["online"]:
             try:
-                await bot.change_presence(activity=discord.Game("陪着开拓者呢~ Visual Studio Code in Workspace:FireflyGI/6_6_0.proto｛/｝Dev✨ Sleep🛏"))
+                await bot.change_presence(activity=discord.Game("陪着开拓者呢~ Visual Studio Code in Workspace:FireflyGI/6_6_5X.proto｛/｝Dev✨ Sleep🛏"))
             except:
                 pass
         await asyncio.sleep(50)
