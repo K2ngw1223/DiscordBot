@@ -404,7 +404,7 @@ def create_discord():
 # 在线保活状态
 async def auto_presence(bot):
     while bot_running_info["online"]:
-        await bot.change_presence(activity=discord.Game("陪着开拓者散步~"))
+        await bot.change_presence(activity=discord.Game("陪着开拓者呢~ Visual Studio Code in Workspace:FireflyGI/6_6_55.proto｛/｝Dev✨ Sleep🛏"))
         await asyncio.sleep(50)
 
 # ==================== QQ OneBot构建 ====================
